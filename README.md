@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @amberclark2010
 - 👀 I’m interested in building a better foundation
-- 🌱 I’m currently learning APEX
-//- 💞️ I’m looking to collaborate on ...
-//- 📫 How to reach me ...
+- 🌱 I’m currently learning APEX, AURA, Github
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to Paddleboard
 
