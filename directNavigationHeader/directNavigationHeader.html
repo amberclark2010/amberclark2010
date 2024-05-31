@@ -1,0 +1,12 @@
+<template>
+    
+    <lightning-tabset active-tab-value={selectedSurveyTab}>
+       <template for:each={visibleStatuses} for:item="stage">
+         <div key={stage.label}>
+            <lightning-tab label={stage.label} value={stage.label} onactive={handleActive}>
+            </lightning-tab>
+         </div>
+       </template>
+    </lightning-tabset>
+    
+</template>
